@@ -1,0 +1,1 @@
+Design of the anonimity and communication resilience calculator is described in https://nomos-tech.notion.site/Analysis-of-Resilience-and-Anonymity-1fd261aa09df814a9967efc9aa479eba#1fd261aa09df815c9d14f1bf340c1e4e
